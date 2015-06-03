@@ -1,3 +1,4 @@
+## These packages should go into dependencies/imports
 require(stringr)
 require(stackr)
 require(magrittr)
